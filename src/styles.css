@@ -1,0 +1,10 @@
+.App {
+  font-family: sans-serif;
+  width: 400px;
+  margin: 0 auto;
+}
+
+input {
+  margin-top: 10px;
+  display: block;
+}
